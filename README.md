@@ -63,7 +63,8 @@ I calculated the following metrics for each cohort:
 - Average Revenue Per User
 
 - Total Revenue
- 
+
+ ![image](Image/cohort.png)
 **Insights :**
 1. The **Q1 cohort is largest with 1,682 users and £1.6M revenue**. Despite retention dropping to 63%, total revenue grows to nearly £1.9M by period 3, showing loyal customers spend more over time.
 
