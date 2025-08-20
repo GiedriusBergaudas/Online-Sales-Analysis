@@ -35,7 +35,7 @@ RFM segmentation was done using SQL by assigning scores based on quantiles:
 | **Can't Lose Them**     | 1             | 3 or 4                   | Previously loyal, now inactive.                 |
 | **Lost Customers**      | 1 or 2        | 1 or 2                   | Low recent activity and value.                  |
 
-![image](https://imgur.com/36b149fe-e762-4bc6-b9d7-0c64bd8464f0)
+![image](https://i.imgur.com/W86udSU.png)
 
 **Insights :**
 1. **Best Customers, Loyal Customers, and Potential Loyalists** – together they **make up 41% of all customers** but bring in around **77% of total revenue**.
